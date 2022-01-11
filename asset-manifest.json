@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Countries-FlagsReactJS/static/css/main.c791fd99.css",
+    "main.js": "/Countries-FlagsReactJS/static/js/main.796e28fc.js",
+    "static/js/787.2ecd0f4f.chunk.js": "/Countries-FlagsReactJS/static/js/787.2ecd0f4f.chunk.js",
+    "index.html": "/Countries-FlagsReactJS/index.html",
+    "main.c791fd99.css.map": "/Countries-FlagsReactJS/static/css/main.c791fd99.css.map",
+    "main.796e28fc.js.map": "/Countries-FlagsReactJS/static/js/main.796e28fc.js.map",
+    "787.2ecd0f4f.chunk.js.map": "/Countries-FlagsReactJS/static/js/787.2ecd0f4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c791fd99.css",
+    "static/js/main.796e28fc.js"
+  ]
+}
